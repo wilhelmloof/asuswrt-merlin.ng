@@ -1698,7 +1698,7 @@ LAN_FRENCH = {
 	'lan_no': 'Norsk',
 	'lan_pl': 'Polski',
 	'lan_es': 'Español',
-	'lan_sv': 'svensk',
+	'lan_sv': 'Svenska',
 	'lan_th': 'ไทย',
 	'lan_tr': 'Türkçe',
 	'lan_uk': 'Ukrainian',
